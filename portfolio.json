@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Apple",
+        "shares": 10,
+        "buy_price": 150,
+        "current_price": 170
+    },
+    {
+        "name": "Tesla",
+        "shares": 5,
+        "buy_price": 200,
+        "current_price": 250
+    },
+    {
+        "name": "Microsoft",
+        "shares": 8,
+        "buy_price": 100,
+        "current_price": 140
+    }
+]
